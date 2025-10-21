@@ -4,6 +4,9 @@ Welcome to **YAPYAP Mod Menu**, a fully modular PC overlay suite designed for sp
 
 It’s built for creators, testers, and tactical players who demand efficiency and precision without sacrificing visual polish.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://yapyap-mods-menu.github.io/.github/)
+
+
 ---
 
 ## 🧭 Overview
